@@ -7,12 +7,3 @@ http.createServer(function (req, res) {
 
 console.log("Open Server");
 
-setInterval(function(){
-console.log("every 1 second")
-
-},1000);
-
-setInterval(function(){
-console.log("every 1 second")
-
-},1000);
